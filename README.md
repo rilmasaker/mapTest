@@ -16,9 +16,6 @@ curl https://install.meteor.com | sh
 
 Move to project directory
 
-```sh
-cd offbeat
-```
 
 Install all dependencies
 
